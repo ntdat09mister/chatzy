@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/TelegramBots" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apple-store" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apple-store/spring-boot-microservices-oauth2-jwt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/appwrite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/basic-microservices-springboot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crmnx/authentication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crmnx/campaigns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crmnx/customers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crmnx/exports" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crmnx/hip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crmnx/imports" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crmnx/loyalty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crmnx/products" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crmnx/profilers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crmnx/transactions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo.encryptor.validation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo.jpa-connect-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo.jwt.security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docker-tutorial/StudentManagement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphql-with-spring-boot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kakao/kakaogamificationbe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kakao/kakaogamificationfe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loyalty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservice.demo.jwt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservice.demo.jwt/encrypt.secret" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservices-oauth2-notification-telegram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservices-student-management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notification-provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notification.telegram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redis-om-spring-skeleton-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shopping-clothes-b2c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-spring-security-jwt-authentication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/student-management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/telegram-bot-java-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/telegram-provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tracex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/transactions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tutorial-admin-console" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tutorial-plantfinder-api" vcs="Git" />
+  </component>
+</project>

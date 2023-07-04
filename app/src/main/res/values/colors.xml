@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="login_button_background">#71E9ED</color>
+    <color name="register_button_background">#EDCD8D</color>
+    <color name="login_button_color">#81ADBA</color>
+    <color name="register_button_color">#F8E99B</color>
+    <color name="primary">#1C2E46</color>
+    <color name="primary_dark">#142232</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="input_background">#ECECEC</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="received_message_background">#090D16</color>
+    <color name="lightGreen">#e5ffcc</color>
+    <color name="colorPrimary">#0b6156</color>
+    <color name="grayBackground">#BCBCBC</color>
+</resources>
