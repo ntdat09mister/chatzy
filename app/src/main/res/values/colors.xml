@@ -12,9 +12,13 @@
     <color name="secondary_text">#757575</color>
     <color name="input_background">#ECECEC</color>
     <color name="icon_background">#20FFFFFF</color>
+    <color name="color_main">#28A7F1</color>
     <color name="error">#B00020</color>
     <color name="received_message_background">#090D16</color>
     <color name="lightGreen">#e5ffcc</color>
     <color name="colorPrimary">#0b6156</color>
     <color name="grayBackground">#BCBCBC</color>
+    <color name="color_main_text">#FFFFFF</color>
+    <color name="black_secondary">#212121</color>
+
 </resources>
